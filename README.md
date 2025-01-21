@@ -1,7 +1,7 @@
 
 
 
-#Flow Chart of Pipeline Spill Volue Calculation
+# Flow Chart of Pipeline Spill Volue Calculation
 
 ![Volume UML](./images/volume_uml.jpg)  
 
@@ -52,7 +52,7 @@ Step 7: Repeating Step 5 for the New Direction
 
 
 
-#Flow Chart of Horizontal Oil Spill Distribution
+# Flow Chart of Horizontal Oil Spill Distribution
 
 ![Path UML](./images/path_uml.jpg)  
 
