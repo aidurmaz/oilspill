@@ -1,6 +1,5 @@
-## How to Use the Application
+The user interface developed with the ArcPy library in ArcGIS Desktop must be opened in the ArcGIS Desktop application.  
+If the `oil_leaking.tbx` toolbox provided on this page is added to ArcToolbox, it will appear in the application as shown in the image below:  
+![Toolbox Screenshot](../images/toolbox.jpg)  
 
-The user interface of the application developed in ArcGIS can be opened using the ArcGIS Desktop application.  
-To use the toolbox, add the `oil_leaking.tbx` toolbox to your ArcGIS project.
-
-![Toolbox Screenshot](../images/toolbox.jpg)
+Additionally, to ensure the functionality of the developed code, the `leaking.py` script provided on this page must also be imported into this interface.
